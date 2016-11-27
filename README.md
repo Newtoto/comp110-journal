@@ -6,7 +6,7 @@ Establishing a consensus for a definition for anything can be a tricky thing, es
 
 <h2>Experimental Investigations of the Utility of Detailed Flowcharts in Programming</h2>
 
-The experiements within this paper more or less all state that there is no significant difference in performance when using a flow chart, whether this be in program composition, comprehension or debugging. An improvement was seen in experiment 3, in which the use of a flow chart for debugging and comprehension did seem to help those who had previous experience with them. However, this difference was no more than 10% and in a sample size of 70, this could be put down to chance. This paperis more of an initial step into contesting the benefits of flowcharts due to the sample sizes not being large enough to yield confident conclusions.
+The experiements within this paper more or less all state that there is no significant difference in performance when using a flow chart, whether this be in program composition, comprehension or debugging. An improvement was seen in experiment 3, in which the use of a flow chart for debugging and comprehension did seem to help those who had previous experience with them. However, this difference was no more than 10% and in a sample size of 70, this could be put down to chance. This paper is more of an initial step into contesting the benefits of flowcharts, because the sample sizes not being large enough to yield confident conclusions.
 
 <h2>A Fast Procedure forr Computing in the Distance Between Complex Objects in Three-Dimensional Space</h2>
 
