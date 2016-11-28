@@ -11,3 +11,13 @@ The experiements within this paper more or less all state that there is no signi
 <h2>A Fast Procedure forr Computing in the Distance Between Complex Objects in Three-Dimensional Space</h2>
 
 Euclidean distance - shortest line segment joining 2 objects
+
+<h2>Go To Statement Considered Harmful</h2>
+
+Dijkstra starts off by suggesting that go to statements should be abolished for languages any higher than machine code, however he himself mentions that it is the unbridled use of the go to statement which has negative consequences. Abolishing any available toolkit and branding all use of it as "harmful" seems counter intuitive since it does offer functionality. The title just feels like he was going to shock and get interest since proper use of any statement can make code more efficient and legible.
+
+Keeping the code as chronological as possible as Dijkstra suggests seems nice, but practically writing code like this is inneficient since things would have to be repeated. Although it's easy to follow, this doesn't lend its self to being easy to edit because to change a variable or a section of code you may have to trek through the code editing multiple. It's far quicker being able to refer back to an individual section of code with something like a go to statement and editing it once to change all uses of that code.
+
+<h2>Links between the papers</h2>
+
+The link I have found between these papers is that of abstract to physical. A computer computes when it takes an abstract and makes it physical and a flow chart is an abstract of a process which is then made physical. Calculating the Euclidean distance is done by breaking down the physical into abstract maths and physics equations, and Dijkstra tries to reduce the usage of the go to statement to make the abstract code process closer to the physical running of the code for ease of understanding.
