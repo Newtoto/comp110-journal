@@ -8,9 +8,9 @@ Establishing a consensus for a definition for anything can be a tricky thing, es
 
 The experiements within this paper more or less all state that there is no significant difference in performance when using a flow chart, whether this be in program composition, comprehension or debugging. An improvement was seen in experiment 3, in which the use of a flow chart for debugging and comprehension did seem to help those who had previous experience with them. However, this difference was no more than 10% and in a sample size of 70, this could be put down to chance. This paper is more of an initial step into contesting the benefits of flowcharts, because the sample sizes not being large enough to yield confident conclusions.
 
-<h2>A Fast Procedure forr Computing in the Distance Between Complex Objects in Three-Dimensional Space</h2>
+<h2>A Fast Procedure for Computing in the Distance Between Complex Objects in Three-Dimensional Space</h2>
 
-Euclidean distance - shortest line segment joining 2 objects
+This paper gives a faster process for calculating the shortest line segment for 2 objects (Euclidean distance) in 3D space. The application of which apply wherever 3D worlds and computers combine such as robotics, physics modelling and 3D computer games. I don't understand the maths, but if this paper is to believed, it gives a more efficient method for getting the Euclidean distance than earlier used methods. Since the abstract physics is required to allow for a computer to work out this distance, as opposed to a person interacting with the physical world where this distance seems instinctive, the maths involved gets quite heavy. 
 
 <h2>Go To Statement Considered Harmful</h2>
 
